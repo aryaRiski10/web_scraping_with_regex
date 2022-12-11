@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+lxml
+pandas
+tqdm
+psycopg2
+re
+datetime
+selenium
